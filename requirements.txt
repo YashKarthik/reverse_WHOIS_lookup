@@ -1,0 +1,7 @@
+urllib3
+mechanicalsoup
+webbrowser
+requests
+urllib.parse
+bs4
+pandas
